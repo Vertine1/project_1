@@ -9,7 +9,7 @@
     color: #f9faf8;
     margin: auto;
     padding: 50px;
-    
+
 
 }
 .text{
@@ -41,9 +41,10 @@
 }
 .Content button{
     border: none;
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 15px;
     font-weight: 1000;
+    padding: 20px 20px;
    
 }
 ul{
@@ -62,7 +63,7 @@ a{
 }
 #header h1{
     font-size: 24px;
-
+    
 
 }
 .links{
@@ -148,13 +149,19 @@ button{
 }
 .light{
     margin-bottom: 70px;
-    background-color: #777879;
+    background-color: #e5e7eb;
     text-align: center;
     padding: 100px;
 }
 .light p{
-    color: #fafafa;
+    color: #1f2937;
+    font-style: italic;
 
+}
+.light .tag{
+    color: #1f2937;
+    text-align: right;
+    font-style: italic;
 }
 .container{
     margin: 50px;
@@ -172,5 +179,7 @@ button{
 }
 .dark button{
 text-align: center;
+padding: 10px 20px;
+margin-left: auto;
     
 }
